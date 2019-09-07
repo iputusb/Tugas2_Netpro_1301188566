@@ -1,4 +1,3 @@
-# Tugas2_Netpro_1301188566
 ## TUGAS 2 NETPRO ##
 
 <p align="center"
@@ -51,3 +50,15 @@ Kelebihan Topologi Tree:
 
 
 #### SOAL NOMOR 3 ####
+
+Web Server
+
+[![3a.png](https://i.postimg.cc/nrjht8pZ/3a.png)](https://postimg.cc/q6rT85NZ)
+
+Database Server
+
+[![3b.png](https://i.postimg.cc/9Fq0SL3d/3b.png)](https://postimg.cc/hfcKQbtv)
+
+FTP
+
+[![3c.png](https://i.postimg.cc/1zyz8P8B/3c.png)](https://postimg.cc/0zHv4TdK)
